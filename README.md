@@ -1,3 +1,3 @@
-# go_india_stocks_assignment
+# GoIndiaStocks_WeatherWatch
 
 A new Flutter project.
